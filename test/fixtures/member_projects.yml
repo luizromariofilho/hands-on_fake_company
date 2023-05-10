@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  member: one
+  project: one
+  is_accountable: false
+
+two:
+  member: two
+  project: two
+  is_accountable: false
